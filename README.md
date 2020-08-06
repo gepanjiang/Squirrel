@@ -11,6 +11,10 @@
 
 (2)后台功能：管理前台注册的用户, 管理商品信息, 管理订单信息, 钱包管理, 系统管理 
 
+【视频教程】
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0806/220544_7be1bc8a_420766.png "video.png")
+
+
 #### 软件架构
 【运行环境】  IDEA  Eclipse   JDK1.8   tomcat8    MySql
 
