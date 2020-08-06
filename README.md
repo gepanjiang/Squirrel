@@ -12,7 +12,7 @@
 (2)后台功能：管理前台注册的用户, 管理商品信息, 管理订单信息, 钱包管理, 系统管理 
 
 【视频教程】
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0806/220544_7be1bc8a_420766.png "video.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0806/221048_ccd509e9_420766.png "video.png")
 
 
 #### 软件架构
